@@ -1,0 +1,1 @@
+This repository will contain all the code I write for UW-Whitewater CS223 Data Structures class.  This class is taught in C++, and will be the second C++ course I have taken here at UW-Whitwater.
