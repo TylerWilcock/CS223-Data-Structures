@@ -50,7 +50,7 @@ int main()
                                         {
                                                 for(int d = 0; d < numOfPoints; d++)
                                                 {
-                                                        //Store the value of each for loop value - each is a city
+                                                        //Store the value of each for loop variable - each is a city
                                                         resultsArray[comboCounter][0] = i;
                                                         resultsArray[comboCounter][1] = j;
                                                         resultsArray[comboCounter][2] = k;
